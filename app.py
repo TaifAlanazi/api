@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException
+
 import streamlit as st
 import numpy as np
 app = FastAPI()
